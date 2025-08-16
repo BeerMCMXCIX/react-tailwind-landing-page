@@ -1,12 +1,17 @@
-# React + Vite
+# Project Nexcent - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a conversion of the "react-tailwind-landing-page" landing page design from Figma into a responsive website built with React and Tailwind CSS. The primary goal of this project is to practice modern front-end development workflows, from design implementation to component-based architecture.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Credits and Attributions
 
-## Expanding the ESLint configuration
+This project would not have been possible without the amazing resources from the following creators:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **UI/UX Design**: The beautiful and modern design for "Nexcent" was created by **Muntasir Billah**.
+  - [View the original design on Figma Community]([https://www.figma.com/community/file/1222060007934600841])
+
+- **Development Tutorial**: The step-by-step coding process was guided by an excellent tutorial from **Patiphan Phengpao**.
+  - [Watch the tutorial on YouTube]([https://www.youtube.com/watch?v=BziTye98SRo])

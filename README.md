@@ -11,7 +11,7 @@ This project is a conversion of the "react-tailwind-landing-page" landing page d
 This project would not have been possible without the amazing resources from the following creators:
 
 - **UI/UX Design**: The beautiful and modern design for "Nexcent" was created by **Muntasir Billah**.
-  - [View the original design on Figma Community]([https://www.figma.com/community/file/1222060007934600841])
+  - [View the original design on Figma Community](https://www.figma.com/community/file/1222060007934600841)
 
 - **Development Tutorial**: The step-by-step coding process was guided by an excellent tutorial from **Patiphan Phengpao**.
-  - [Watch the tutorial on YouTube]([https://www.youtube.com/watch?v=BziTye98SRo])
+  - [Watch the tutorial on YouTube](https://www.youtube.com/watch?v=BziTye98SRo)

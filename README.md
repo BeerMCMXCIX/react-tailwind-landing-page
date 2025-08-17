@@ -1,4 +1,4 @@
-# Project Nexcent - Landing Page
+# Project Landing Page
 
 This project is a conversion of the "react-tailwind-landing-page" landing page design from Figma into a responsive website built with React and Tailwind CSS. The primary goal of this project is to practice modern front-end development workflows, from design implementation to component-based architecture.
 
